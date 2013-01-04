@@ -3,7 +3,8 @@ IISDeploy
 
 Delopy asp.net website with github automatically
 
-Here is the full workflow:
+Here is the basic workflow:
+
 1. login into your server.
 
 2. install git.
